@@ -1,0 +1,31 @@
+HP_The_Dark_Lady_Awakens
+|
+|___Characters
+|	|___Minerva
+|	|___Olivia de Mort
+|
+|___Documentation
+|	|___Diagrams
+|	|___Documents
+|	|___Story and dialogues
+|	|___DOD.gdoc
+|
+|___Enemies
+|	|___Common
+|	|___Bosses
+|
+|___General images
+|
+|___Reference images
+|
+|___Templates
+|	|___Characters
+|	|___Enemies
+|
+|___World
+	|___Level maps and puzzles
+	|	|___Section A
+	|	|___Section B
+	|	|___Section C
+	|
+	|___World map
