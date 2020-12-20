@@ -3,29 +3,43 @@ HP_The_Dark_Lady_Awakens
 |___Characters
 |	|___Minerva
 |	|___Olivia de Mort
+|	|___...
 |
 |___Documentation
 |	|___Diagrams
-|	|___Documents
-|	|___Story and dialogues
+|	|___LDD.gdoc
 |	|___DOD.gdoc
 |
 |___Enemies
 |	|___Common
+|	|	|___Behaviours
+|	|	|___Reference Images
 |	|___Bosses
+|		|___Behaviours
+|		|___Reference Images
 |
 |___General images
 |
-|___Reference images
+|___Items
+|
+|___NPCs
+|	|___Behaviours
+|	|___Reference Images
+|
+|___Sounds
 |
 |___Templates
 |	|___Characters
 |	|___Enemies
 |
 |___World
+	|___Concept art
+	|
 	|___Level maps and puzzles
-	|	|___Section A
-	|	|___Section B
-	|	|___Section C
+	|	|___Library
+	|	|___Entrance
+	|	|___Forgotten Floor
+	|	|___Changing Rooms
+	|	|___Old Bathrooms
 	|
 	|___World map
